@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tablesItem"
+        android:icon="@drawable/ic_masalar"
+        android:title="Tables"></item>
+    <item
+        android:id="@+id/productsItem"
+        android:icon="@drawable/ic_urunler"
+        android:title="Products"></item>
+    <item
+        android:id="@+id/basketItem"
+        android:icon="@drawable/ic_sepet"
+        android:title="Basket"></item>
+    <item
+        android:id="@+id/optionsItem"
+        android:icon="@drawable/ic_secenekler"
+        android:title="Options"></item>
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "831504232170",
+    "firebase_url": "https://restorantim-1ca4b.firebaseio.com",
+    "project_id": "restorantim-1ca4b",
+    "storage_bucket": "restorantim-1ca4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831504232170:android:e68780a5226b9987397193",
+        "android_client_info": {
+          "package_name": "com.example.restorant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831504232170-3b1pbitb5mnhcjsshh7bf3791vo64fl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restorant",
+            "certificate_hash": "179f965cbd69914c37a1c28ed5d537bd95906976"
+          }
+        },
+        {
+          "client_id": "831504232170-mgajgeurekj09qtatm1k28kjkcc95jrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOWkCb2gbqp2XsQ_5W0h3owVux1VKz_Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831504232170-mgajgeurekj09qtatm1k28kjkcc95jrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
